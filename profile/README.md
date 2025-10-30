@@ -13,10 +13,8 @@
 ## 🧰 기술 스택
 
 ## 📦 레포지토리
-- [게임 서버](https://github.com/May-I-Game/stack-guys-game-server)
-- [게임 클라이언트](https://github.com/May-I-Game/stack-guys-game-client)
-- [웹 서버](https://github.com/May-I-Game/stack-guys-web-server)
-- [웹 클라이언트](https://github.com/May-I-Game/stack-guys-web-client)
+- [게임](https://github.com/May-I-Game/stack-guys)
+- [웹](https://github.com/May-I-Game/stack-guys-web)
 
 ## ✍️ 커밋 규칙 (Conventional Commits)
 
@@ -47,6 +45,7 @@
   ```
 
 ## 👥 참여자
+
 
 
 
