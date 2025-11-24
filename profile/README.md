@@ -27,7 +27,8 @@
 ### 🤖 AI Bot
 - Unity NavMeshAgent 기반 서버 권위 AI
 ### 🎨 기타
-- 점프/다이브/잡기/던지기/피격 애니메이션
+- websocket-sharp 기반 부하 테스트
+- Console Bot
   
 ## 📦 레포지토리
 - [게임](https://github.com/May-I-Game/stack-guys)
@@ -58,4 +59,5 @@
   - 변경 사항 2
   - 변경 사항 3
   ```
+
 
