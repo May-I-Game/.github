@@ -23,13 +23,12 @@
 ### 🧵 Server
 - Headless Unity Server
 - UnityTransport (WebSocket 모드 지원)
+- Proximity 기반 NetworkVisibility
 ### 🤖 AI Bot
 - Unity NavMeshAgent 기반 서버 권위 AI
-### 🌐 Networking
-- WebSocketSharp 서버
-- Proximity 기반 NetworkVisibility
 ### 🎨 기타
 - 점프/다이브/잡기/던지기/피격 애니메이션
+  
 ## 📦 레포지토리
 - [게임](https://github.com/May-I-Game/stack-guys)
 - [웹](https://github.com/May-I-Game/stack-guys-web)
@@ -59,3 +58,4 @@
   - 변경 사항 2
   - 변경 사항 3
   ```
+
