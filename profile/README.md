@@ -38,7 +38,7 @@ https://youtu.be/dXCM9R4kjuk?si=8_XpVuhgSfFRau_d
   
 ## 📦 레포지토리
 - [게임](https://github.com/May-I-Game/stack-guys)
-- [웹](https://github.com/May-I-Game/stack-guys-web)
+- [인프라](https://github.com/May-I-Game/stack-guys-web)
 
 ## ✍️ 커밋 규칙 (Conventional Commits)
 
@@ -65,6 +65,7 @@ https://youtu.be/dXCM9R4kjuk?si=8_XpVuhgSfFRau_d
   - 변경 사항 2
   - 변경 사항 3
   ```
+
 
 
 
