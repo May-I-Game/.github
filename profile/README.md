@@ -14,6 +14,10 @@ http://kjungle.shop
 ### 발표영상
 https://youtu.be/dXCM9R4kjuk?si=8_XpVuhgSfFRau_d
 
+### 포스터
+![포스터-강경찬-스택가이즈 (1)_page-0001](https://github.com/user-attachments/assets/db26e98f-4538-45ab-98a3-8562b34e27d5)
+
+
 ## 🧭 프로젝트 개요
 - 플레이어 + AI 봇 혼합 레이스
 - 실시간 충돌/점프/다이브/잡기 등 풀 커맨드 지원
@@ -65,6 +69,7 @@ https://youtu.be/dXCM9R4kjuk?si=8_XpVuhgSfFRau_d
   - 변경 사항 2
   - 변경 사항 3
   ```
+
 
 
 
