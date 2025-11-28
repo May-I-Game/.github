@@ -15,7 +15,7 @@ http://kjungle.shop
 https://youtu.be/dXCM9R4kjuk?si=8_XpVuhgSfFRau_d
 
 ### 포스터
-![포스터-강경찬-스택가이즈 (1)_page-0001](https://github.com/user-attachments/assets/db26e98f-4538-45ab-98a3-8562b34e27d5)
+![나만무-포스터](https://github.com/user-attachments/assets/e3414ea0-205b-495d-a045-44de0a59d5e7)
 
 
 ## 🧭 프로젝트 개요
@@ -69,6 +69,7 @@ https://youtu.be/dXCM9R4kjuk?si=8_XpVuhgSfFRau_d
   - 변경 사항 2
   - 변경 사항 3
   ```
+
 
 
 
