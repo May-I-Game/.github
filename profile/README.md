@@ -27,18 +27,20 @@ https://youtu.be/dXCM9R4kjuk?si=8_XpVuhgSfFRau_d
 
 ## 🏗️ 아키텍처 개요
 ### 🎮 Game Engine
-- Unity 2022+  
+- Unity 6.0
 - Unity Netcode for GameObjects(NGO)
-- Unity Navigation(NavMesh, NavMeshAgent, NavMeshLink)
+
 ### 🧵 Server
-- Headless Unity Server
-- UnityTransport (WebSocket 모드 지원)
+- Unity Dedicated Server
+- UnityTransport (WebSocket 사용)
 - Proximity 기반 NetworkVisibility
+
 ### 🤖 AI Bot
-- Unity NavMeshAgent 기반 서버 권위 AI
+- Unity Navigation(NavMesh, NavMeshAgent, NavMeshLink) 기반 서버 권위 AI
+
 ### 🎨 기타
 - websocket-sharp 기반 부하 테스트
-- Console Bot
+- 부하 테스트용 C# ConsoleApplication
   
 ## 📦 레포지토리
 - [게임](https://github.com/May-I-Game/stack-guys)
@@ -69,6 +71,7 @@ https://youtu.be/dXCM9R4kjuk?si=8_XpVuhgSfFRau_d
   - 변경 사항 2
   - 변경 사항 3
   ```
+
 
 
 
