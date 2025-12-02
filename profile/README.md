@@ -6,10 +6,7 @@
 - 귀여운 외형과 반전 난이도를 가진 실시간 멀티플레이 장애물 레이스 웹 게임입니다.  
 똑똑한 AI 봇과 재미난 아이템들이 곳곳에 배치되어 있어 매 경기마다 색다른 재미를 제공합니다.
 
-## 🚀 데모 & 발표
-
-### 데모
-http://kjungle.shop
+## 🚀 발표영상 & 포스터
 
 ### 발표영상
 [![발표영상](https://ytcards.demolab.com/?id=Fh3Ibfskyzw&title=발표영상&lang=ko&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5)](https://youtu.be/Fh3Ibfskyzw)
@@ -80,6 +77,7 @@ http://kjungle.shop
 | **🎮 Client** | **이정호** | [![Email](https://img.shields.io/badge/Gmail-ljh991106-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ljh991106@gmail.com) [![GitHub](https://img.shields.io/badge/Github-JGLeejungHo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JGLeejungHo) |
 | **♾️ DevOps** | **전석모** | [![Email](https://img.shields.io/badge/Gmail-wjstjrah2000-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wjstjrah2000@gmail.com) [![GitHub](https://img.shields.io/badge/Github-Seok--more-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Seok-more) |
      
+
 
 
 
