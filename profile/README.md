@@ -12,7 +12,7 @@
 http://kjungle.shop
 
 ### 발표영상
-https://youtu.be/dXCM9R4kjuk?si=8_XpVuhgSfFRau_d
+[![발표영상](https://ytcards.demolab.com/?id=Fh3Ibfskyzw&title=발표영상&lang=ko&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5)](https://youtu.be/Fh3Ibfskyzw)
 
 ### 포스터
 ![나만무-포스터](https://github.com/user-attachments/assets/e3414ea0-205b-495d-a045-44de0a59d5e7)
@@ -80,6 +80,7 @@ https://youtu.be/dXCM9R4kjuk?si=8_XpVuhgSfFRau_d
 | **🎮 Client** | **이정호** | [![Email](https://img.shields.io/badge/Gmail-ljh991106-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ljh991106@gmail.com) [![GitHub](https://img.shields.io/badge/Github-JGLeejungHo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JGLeejungHo) |
 | **♾️ DevOps** | **전석모** | [![Email](https://img.shields.io/badge/Gmail-wjstjrah2000-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wjstjrah2000@gmail.com) [![GitHub](https://img.shields.io/badge/Github-Seok--more-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Seok-more) |
      
+
 
 
 
