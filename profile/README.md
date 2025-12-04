@@ -28,7 +28,7 @@
 - Unity Netcode for GameObjects(NGO)
 
 ### 🧵 Server
-- Unity Dedicated Server
+- Unity Headless Server
 - UnityTransport (WebSocket 사용)
 - Proximity 기반 NetworkVisibility
 
@@ -77,6 +77,7 @@
 | **🎮 Client** | **이정호** | [![Email](https://img.shields.io/badge/Gmail-ljh991106-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ljh991106@gmail.com) [![GitHub](https://img.shields.io/badge/Github-JGLeejungHo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JGLeejungHo) |
 | **♾️ DevOps** | **전석모** | [![Email](https://img.shields.io/badge/Gmail-wjstjrah2000-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wjstjrah2000@gmail.com) [![GitHub](https://img.shields.io/badge/Github-Seok--more-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Seok-more) |
      
+
 
 
 
