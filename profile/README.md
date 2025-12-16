@@ -1,7 +1,11 @@
 ﻿# 스택가이즈 (Stack Guys)
 
 - 크래프톤 정글 10기 나만무 프로젝트
-
+  
+## 📦 레포지토리
+- [Unity 게임 프로젝트 레포지토리 ](https://github.com/May-I-Game/stack-guys)
+- [매치 서버 및 웹 인프라 레포지토리](https://github.com/May-I-Game/stack-guys-web)
+- 
 ## ✨ 프로젝트 한줄 소개
 - 귀여운 외형과 반전 난이도를 가진 실시간 멀티플레이 장애물 레이스 웹 게임입니다.  
 똑똑한 AI 봇과 재미난 아이템들이 곳곳에 배치되어 있어 매 경기마다 색다른 재미를 제공합니다.
@@ -38,10 +42,6 @@
 ### 🎨 기타
 - websocket-sharp 기반 부하 테스트
 - 부하 테스트용 C# ConsoleApplication
-  
-## 📦 레포지토리
-- [Unity 게임 프로젝트 레포지토리 ](https://github.com/May-I-Game/stack-guys)
-- [매치 서버 및 웹 인프라 레포지토리](https://github.com/May-I-Game/stack-guys-web)
 
 ## ✍️ 커밋 규칙 (Conventional Commits)
 
@@ -77,6 +77,7 @@
 | **🎮 Client** | **이정호** | [![Email](https://img.shields.io/badge/Gmail-ljh991106-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ljh991106@gmail.com) [![GitHub](https://img.shields.io/badge/Github-JGLeejungHo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JGLeejungHo) |
 | **♾️ DevOps** | **전석모** | [![Email](https://img.shields.io/badge/Gmail-wjstjrah2000-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wjstjrah2000@gmail.com) [![GitHub](https://img.shields.io/badge/Github-Seok--more-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Seok-more) |
      
+
 
 
 
